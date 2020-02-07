@@ -1,1 +1,1 @@
-# HW2
+I made the letters using only filled rectangles and squares
